@@ -1,6 +1,6 @@
 # Black-jack
 
-## Technologies Used"
+## Technologies Used:
 * React
 * Javascript
 * CSS
