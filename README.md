@@ -1,6 +1,6 @@
 # Blackjack
 
-### Technologies Used:
+## Technologies Used:
 * React
 * Javascript
 * CSS
