@@ -1,4 +1,4 @@
-# Black jack
+# Blackjack
 
 ## Technologies Used:
 * React
