@@ -3,4 +3,5 @@
 ## Technologies Used:
 * React
 * Javascript
+* HTML
 * CSS
